@@ -1,0 +1,16 @@
+python-dotenv
+g4f
+langchain-groq
+langchain-cerebras
+langchain-nvidia-ai-endpoints
+langchain-google-genai
+langchain-core
+langchain-community
+langchain
+pydantic
+faiss-cpu
+langchain
+ipykernel
+streamlit
+pypdf
+google-generativeai
